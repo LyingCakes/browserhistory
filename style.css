@@ -20,3 +20,16 @@ p {
 img {
   padding: 10px;
 }
+
+li {
+  list-style-type: none;
+  margin: 75px;
+  padding: 0px;
+  display: inline;
+}
+
+.column {
+  float: left;
+  width: 300px;
+  padding: 10px;
+}
